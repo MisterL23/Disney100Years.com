@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sassy+Frass&display=swap');
+
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu {
+    list-style: none;
+    padding: 0;
+    background-color: rgb(128, 0, 42);
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu li a {
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: ;
+    color: aquamarine;
+}
+
+#menu li a:hover {
+    background-color: rgb(0, 255, 255);
+}
+
+.edit {
+    width: 30px;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.titulo {
+    border: 2px solid rgb(5, 143, 35);
+    color: rgb(46, 2, 243);
+    background-color: rgba(212, 13, 202, 0.486);
+    justify-content: center;
+    border-radius: 10px;
+
+    display: flex;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+}
+
+.images {
+  
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+}
+
+.container {
+    background-color: rgba(7, 241, 241, 0.678);
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    height: 280px;
+    padding-top: 110px;
+}
+
+.footer_rodape {
+    margin-top: 400px;
+    font-family: 'Sassy Frass', cursive;
+}
+
+
+h1{
+
+
+}
